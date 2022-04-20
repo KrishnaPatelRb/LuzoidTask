@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LuzoidTask/static/css/main.b1fbf1c0.css",
-    "main.js": "/LuzoidTask/static/js/main.5a314e5d.js",
+    "main.js": "/LuzoidTask/static/js/main.d3ecd0f5.js",
     "static/js/787.7aba0250.chunk.js": "/LuzoidTask/static/js/787.7aba0250.chunk.js",
     "index.html": "/LuzoidTask/index.html",
     "main.b1fbf1c0.css.map": "/LuzoidTask/static/css/main.b1fbf1c0.css.map",
-    "main.5a314e5d.js.map": "/LuzoidTask/static/js/main.5a314e5d.js.map",
+    "main.d3ecd0f5.js.map": "/LuzoidTask/static/js/main.d3ecd0f5.js.map",
     "787.7aba0250.chunk.js.map": "/LuzoidTask/static/js/787.7aba0250.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1fbf1c0.css",
-    "static/js/main.5a314e5d.js"
+    "static/js/main.d3ecd0f5.js"
   ]
 }
